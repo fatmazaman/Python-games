@@ -21,8 +21,12 @@ http://www.codeskulptor.org/#user31_W9yDwVS6zw4nwxz.py
 Week 6: Mini projects  : Blackjack->
 http://www.codeskulptor.org/#user31_GEtpxb0UYEVdI6X.py
 
-Weeks 7: Mini project: Spaceship->  
+Week 7: Mini project: Spaceship->  
 http://www.codeskulptor.org/#user32_rL8Ov8jhUzY
+
+Week 8: Mini project: RiceRocks->  
+Working on it
+
 
 Platform:
 http://www.codeskulptor.org/
