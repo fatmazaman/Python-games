@@ -18,11 +18,11 @@ http://www.codeskulptor.org/#user30_i6l5NqG1NPlhG08.py
 Week 5: Mini Projects : Memory->
 http://www.codeskulptor.org/#user31_W9yDwVS6zw4nwxz.py
 
-Week 6:Mini projects: Blackjack->
+Week 6: Mini projects  : Blackjack->
 http://www.codeskulptor.org/#user31_GEtpxb0UYEVdI6X.py
 
-Weeks 7:Mini project: Spaceship-> 
-Working on it...
+Weeks 7: Mini project: Spaceship->  
+http://www.codeskulptor.org/#user32_rL8Ov8jhUzY
 
 Platform:
 http://www.codeskulptor.org/
