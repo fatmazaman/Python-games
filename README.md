@@ -25,7 +25,7 @@ Week 7: Mini project: Spaceship->
 http://www.codeskulptor.org/#user32_rL8Ov8jhUzY
 
 Week 8: Mini project: RiceRocks->  
-http://www.codeskulptor.org/#user33_ahTsGTUldCx2qxp.py
+http://www.codeskulptor.org/#user33_l1odrhdFRAtJCTn_29.py
 
 Platform:
 http://www.codeskulptor.org/
