@@ -1,5 +1,6 @@
 
-# program template for Spaceship
+# Asteroid
+import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
 import simpleguitk as simplegui
 import math
 import random
@@ -84,6 +85,7 @@ missile_sound = simplegui.load_sound("http://commondatastorage.googleapis.com/co
 missile_sound.set_volume(.5)
 ship_thrust_sound = simplegui.load_sound("http://commondatastorage.googleapis.com/codeskulptor-assets/sounddogs/thrust.mp3")
 explosion_sound = simplegui.load_sound("http://commondatastorage.googleapis.com/codeskulptor-assets/sounddogs/explosion.mp3")
+
 
 # helper functions to handle transformations
 def angle_to_vector(ang):
