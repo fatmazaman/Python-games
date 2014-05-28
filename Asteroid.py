@@ -79,12 +79,14 @@ asteroid_image = simplegui.load_image("http://commondatastorage.googleapis.com/c
 explosion_info = ImageInfo([64, 64], [128, 128], 17, 24, True)
 explosion_image = simplegui.load_image("http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/explosion_alpha.png")
 
+
+
 # sound assets purchased from sounddogs.com, please do not redistribute
-soundtrack = simplegui.load_sound("http://commondatastorage.googleapis.com/codeskulptor-assets/sounddogs/soundtrack.mp3")
-missile_sound = simplegui.load_sound("http://commondatastorage.googleapis.com/codeskulptor-assets/sounddogs/missile.mp3")
+soundtrack = simplegui.load_sound("soundtrack.ogg")
+missile_sound = simplegui.load_sound("missile.ogg")
 missile_sound.set_volume(.5)
-ship_thrust_sound = simplegui.load_sound("http://commondatastorage.googleapis.com/codeskulptor-assets/sounddogs/thrust.mp3")
-explosion_sound = simplegui.load_sound("http://commondatastorage.googleapis.com/codeskulptor-assets/sounddogs/explosion.mp3")
+ship_thrust_sound = simplegui.load_sound("thrust.ogg")
+explosion_sound = simplegui.load_sound("explosion.ogg")
 
 
 # helper functions to handle transformations
