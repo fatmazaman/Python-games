@@ -553,7 +553,7 @@ class RiceRocks:
         self.keydown_left = False
         self.keydown_right = False
         self.lives = 3
-        self.nb_bombs = 0
+        self.nb_bombs = 1
         self.score = 0
 
         self.my_ship = Ship((SCREEN_WIDTH/2.0, SCREEN_HEIGHT/2.0), (0, 0),
